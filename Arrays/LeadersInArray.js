@@ -16,3 +16,4 @@ const LeadersInArray = (arr) => {
 };
 
 console.log(LeadersInArray([4, 7, 1, 0]));
+console.log(LeadersInArray([4, 7, 1, 0, 8, 6, 3, 4]));
