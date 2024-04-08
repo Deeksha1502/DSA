@@ -15,6 +15,5 @@ const UnionOfArrays = (arr1, arr2) => {
   return union;
 };
 
-console.log(
-  UnionOfArrays([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 3, 4, 4, 5, 11, 12])
-);
+console.log(UnionOfArrays([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 3, 4, 4, 5, 11, 12]));
+console.log(UnionOfArrays([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [2, 3, 4, 4, 5, 11, 12, 13, 14]));
