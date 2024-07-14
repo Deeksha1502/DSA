@@ -3,4 +3,4 @@ const CapitalizeFirstLetter = (str) => {
   let answer = letter + str.substring(1);
   return answer;
 };
-console.log(CapitalizeFirstLetter('piano'));
+console.log(CapitalizeFirstLetter('piano hello'));
